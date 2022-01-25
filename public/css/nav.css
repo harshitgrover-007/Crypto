@@ -27,7 +27,7 @@
 .search {
     width: 500px;
     display: flex;
-    bottom: 10px;
+   margin-bottom: 10px;
 }
 
 .search-box{
